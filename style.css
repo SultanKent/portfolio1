@@ -386,37 +386,37 @@ margin-left: 5px;
 }
 
 .imgs1 {
-    background: url(portfolio1/img/sec1.png);
+    background: url(../portfolio1/img/sec1.png);
     height: 473px;
     width: 379px;
 }
 
 .imgs2 {
-    background: url(portfolio1/img/sec2.png);
+    background: url(../portfolio1/img/sec2.png);
     height: 473px;
     width: 379px;
 }
 
 .imgs3 {
-    background: url(portfolio1/img/sec3.png);
+    background: url(../portfolio1/img/sec3.png);
     height: 473px;
     width: 379px;
 }
 
 .imgs4 {
-    background: url(portfolio1/img/sec4.png);
+    background: url(../portfolio1/img/sec4.png);
     height: 473px;
     width: 379px;
 }
 
 .imgs5 {
-    background: url(portfolio1/img/sec5.png);
+    background: url(../portfolio1/img/sec5.png);
     height: 473px;
     width: 379px;
 }
 
 .imgs6 {
-    background: url(portfolio1/img/sec6.png);
+    background: url(../portfolio1/img/sec6.png);
     height: 473px;
     width: 379px;
 }
@@ -456,7 +456,7 @@ margin-left: 5px;
 }
 
 .forests {
-    background: url(portfolio1/img/forest.png) no-repeat;
+    background: url(../portfolio1/img/forest.png) no-repeat;
     width: 1440px;
     height: 600px;
 }
