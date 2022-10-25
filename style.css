@@ -34,7 +34,7 @@ body {
 }
 
 .mid {
-    background: url(img/IMAGE\ \(1\).png);
+    background: url(portfolio1/img/IMAGE\ \(1\).png);
     height: 640px;
     width: 1440px;
 }
@@ -386,37 +386,37 @@ margin-left: 5px;
 }
 
 .imgs1 {
-    background: url(img/sec1.png);
+    background: url(portfolio1/img/sec1.png);
     height: 473px;
     width: 379px;
 }
 
 .imgs2 {
-    background: url(img/sec2.png);
+    background: url(portfolio1/img/sec2.png);
     height: 473px;
     width: 379px;
 }
 
 .imgs3 {
-    background: url(img/sec3.png);
+    background: url(portfolio1/img/sec3.png);
     height: 473px;
     width: 379px;
 }
 
 .imgs4 {
-    background: url(img/sec4.png);
+    background: url(portfolio1/img/sec4.png);
     height: 473px;
     width: 379px;
 }
 
 .imgs5 {
-    background: url(img/sec5.png);
+    background: url(portfolio1/img/sec5.png);
     height: 473px;
     width: 379px;
 }
 
 .imgs6 {
-    background: url(img/sec6.png);
+    background: url(portfolio1/img/sec6.png);
     height: 473px;
     width: 379px;
 }
@@ -456,7 +456,7 @@ margin-left: 5px;
 }
 
 .forests {
-    background: url(img/forest.png) no-repeat;
+    background: url(portfolio1/img/forest.png) no-repeat;
     width: 1440px;
     height: 600px;
 }
@@ -500,7 +500,7 @@ margin-left: 5px;
 }
 
 .zold {
-    background: url(img/theworld.png);
+    background: url(portfolio1/img/theworld.png);
     width: 100%;
     height: 100%;
 }
