@@ -775,6 +775,7 @@ margin-left: 5px;
  @media screen and (max-width: 767px) {
         .container {
             width: 540px;
+            overflow: hidden;
         }
         .midtextsh {
             width: 0px;
