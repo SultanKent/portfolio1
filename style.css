@@ -772,87 +772,82 @@ margin-left: 5px;
     display: flex;
 }
 
-@media screen and (max-width: 800px) {
-    .container {
-        max-width: 500px;
+ @media screen and (max-width: 767px) {
+        .container {
+            width: 540px;
+        }
+        .midtextsh {
+            width: 0px;
+        }
+        .wraptexts {
+            padding: 0px 0px;
+        }
+        .btns {
+            gap: 20px;
+            left: 106px;
+            display: flex;
+            position: static;
+        }
+        .mid {
+            width: 767px;
+        }
+        .center {
+            display: flex;
+            padding: 0px 0px;
+            flex-direction: column;
+        }
+        body {
+            flex-direction: column;
+        }
+        .medina {
+            padding: 99px 0px 71px;
+        }
+        .carl {
+           flex-direction: column;
+            padding: 0px 0px 110px; 
+        }
+        .carl2 {
+            flex-direction: column;
+             padding: 0px 0px 110px; 
+         }
+         .sectionmid {
+            padding: 99px 51px 21px;
+        }
+        .imgs {
+            flex-direction: column;
+            padding: 0px 0px 16px;
+        }
+        .imgss2 {
+            flex-direction: column;
+            padding: 0px 0px 16px;
+        }
+        .imgbottom {
+            padding: 0px 0px 100px;
+        }
+        .forests {
+            width: 720px;
+        }
+        .piro {
+            width: 720px;
+            height: 643px;
+            padding: 0px 0px 72px;
+        }
+        .carbons {
+            flex-direction: column;
+        }
+        .freepoint {
+            flex-direction: column;
+            width: 720px;
+        }
+        .end {
+            width: 720px;
+        }
+        .zeroimg {
+            padding: 0px 0px 75px;
+        }
+        .theend {
+            padding: 0px 0px;
+            flex-direction: column;
+            gap: 132px;
+        }
     }
-    .mid {
-        width: 100%;
-    }
-    .btns {
-        gap: 20px;
-        left: 130px;
-        bottom: 300px;
-        display: flex;
-        position: absolute;
-    }
-    .logo {
-        width: 500px;
-    }
-    .wraptexts {
-        display: none;
-    }
-    .center {
-        flex-direction: column;
-        padding: 0px 0px;
-    }
-    .midtextsh {
-        width: 500px;
-    }
-    .medina {
-        padding: 99px 25px 71px;
-    }
-    .carl {
-        flex-direction: column;
-        padding: 0px 25px 20px;
-    }
-    .carl2 {
-        flex-direction: column;
-        padding: 0px 25px 0px;
-        gap: 102px;
-    }
-    .imgs {
-        flex-direction: column;
-        padding: 0px 25px 0px;
-    }
-    .imgss2 {
-        flex-direction: column;
-        padding: 0px 25px 0px;
-    }
-    .imgbottom {
-        padding: 89px 25px 100px;
-        display: flex;
-    }
-    .forests {
-        width: 500px;
-    }
-    .piro {
-        width: 500px;
-        padding: 0px 0px 100px;
-    }
-    .carbons {
-        flex-direction: column;
-        width: 500px;
-    }
-    .freepoint {
-        flex-direction: column;
-        width: 500px;
-    }
-    .end {
-        width: 500px;
-    }
-    .zeroimg {
-        padding: 1px 0px 75px;
-    }
-    .theend {
-        padding: 0px 0px;
-        flex-direction: column;
-    }
-    .sectionmid {
-        padding: 0px 0px 21px;
-    }
-    .shape {
-        position: absolute;
-        padding: 0px 0px;
-    }
-}
